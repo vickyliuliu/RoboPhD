@@ -88,6 +88,8 @@ These are the robotic labs I pay special attention to.
 
 - [Computer Science](https://github.com/yuwei-wu/RoboPhD/blob/main/Resources/cs.md)
 
+- [Math](https://arxiv.org/abs/2103.15980)
+
 
 ## Guidelines
 
