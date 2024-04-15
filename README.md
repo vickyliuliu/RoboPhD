@@ -1,5 +1,5 @@
-# RoboPhD
-Some records of arXiv papers, GRASP seminars, and resources during my PhD period.
+# One-stop Warehouse for My journey of a Robotics Ph.D.
+This is a repo for storing everything that I find useful while I strive for a Ph.D. in robotics at Georgia Tech.
 
 
 ## Workshops
